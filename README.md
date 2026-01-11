@@ -36,4 +36,4 @@ O cargo de **Desenvolvedor Full Stack Júnior** tem como objetivo apoiar no dese
 
 ---
 
-Esse resumo consolida todos os pontos que você definiu. Quer que eu refine esse conteúdo em um formato que possa ser usado como **material interno de recrutamento** (por exemplo, para alinhar com RH e gestores), ou prefere manter apenas como referência analítica?
+Esse resumo consolida todos os pontos que você definiu.
